@@ -1,0 +1,62 @@
+[
+  {
+    "rating": 5,
+    "customer_name": "Corporate Group - TechNova",
+    "review": "They handled our 40-person corporate retreat flawlessly. Conference setup, team activities and transport were all managed professionally. Will book again next year.",
+    "photo": "",
+    "destination": "Corporate Retreat",
+    "id": "6ac65fc1d161befc853e1d12",
+    "created_date": "2026-10-07T15:05:37.040000",
+    "updated_date": "2026-10-07T15:05:37.040000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "rating": 5,
+    "customer_name": "Rahul Sharma",
+    "review": "Hills Home made our Darjeeling trip absolutely magical. The sunrise at Tiger Hill was a dream come true and every detail was perfectly arranged. Highly recommended!",
+    "photo": "",
+    "destination": "Darjeeling Tour",
+    "id": "6ac65fc1d161befc853e1d0e",
+    "created_date": "2026-10-07T15:05:37.040000",
+    "updated_date": "2026-10-07T15:05:37.040000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "rating": 4,
+    "customer_name": "Debojit Roy",
+    "review": "Great short safari trip to Dooars. Saw rhinos and elephants up close. Well organized and the forest stay was comfortable. Great value for money.",
+    "photo": "",
+    "destination": "Dooars Excursion",
+    "id": "6ac65fc1d161befc853e1d11",
+    "created_date": "2026-10-07T15:05:37.040000",
+    "updated_date": "2026-10-07T15:05:37.040000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "rating": 5,
+    "customer_name": "Priya Nair",
+    "review": "From Tsomgo Lake to the monasteries, everything was seamless. The team was responsive and the hotels were excellent. Will definitely travel with them again.",
+    "photo": "",
+    "destination": "Sikkim Tour",
+    "id": "6ac65fc1d161befc853e1d0f",
+    "created_date": "2026-10-07T15:05:37.040000",
+    "updated_date": "2026-10-07T15:05:37.040000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "rating": 5,
+    "customer_name": "Amit & Sneha",
+    "review": "Our customized Bhutan honeymoon was beyond expectations. The Tiger's Nest trek, the hotels, the driver — everything was top notch. Thank you Hills Home!",
+    "photo": "",
+    "destination": "Bhutan Tour",
+    "id": "6ac65fc1d161befc853e1d10",
+    "created_date": "2026-10-07T15:05:37.040000",
+    "updated_date": "2026-10-07T15:05:37.040000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  }
+]

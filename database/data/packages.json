@@ -1,0 +1,1849 @@
+[
+  {
+    "duration": "7N / 8D",
+    "price": 34999,
+    "description": "Venture into the rugged beauty of Spiti Valley — ancient monasteries like Key and Tabo, the fossil village of Langza, Chandratal Lake, and some of the highest motorable roads in the world.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/574d8ce32_generated_3a1c917c.jpg",
+    "category": "himachal",
+    "highlights": [
+      "Key Monastery",
+      "Chandratal Lake",
+      "Tabo Monastery (Ajanta of Himalayas)",
+      "Kunzum Pass at 15,000 ft"
+    ],
+    "name": "Spiti Valley",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/574d8ce32_generated_3a1c917c.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/2446906a6_generated_7b13215b.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/d23ec8656_generated_3f7fc3a1.jpg"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "Spiti Valley, Himachal",
+    "short_description": "Raw Himalayan beauty — ancient monasteries, fossil villages and high passes.",
+    "featured": true,
+    "id": "6ac8f25d3abe4ca9d35c650b",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "6N / 7D",
+    "price": 29999,
+    "description": "Discover the serene beauty of Kinnaur — apple orchards, the Sangla Valley, ancient temples in Kalpa, and breathtaking views of the Kinner Kailash range.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/574d8ce32_generated_3a1c917c.jpg",
+    "category": "himachal",
+    "highlights": [
+      "Sangla Valley & Baspa river",
+      "Kalpa village & Kinner Kailash view",
+      "Apple orchard visit",
+      "Chitkul (last Indian village)"
+    ],
+    "name": "Kinnaur Kalpa",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/574d8ce32_generated_3a1c917c.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/2446906a6_generated_7b13215b.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/d23ec8656_generated_3f7fc3a1.jpg"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "Kinnaur & Kalpa, Himachal",
+    "short_description": "Apple orchards, ancient temples and pristine Kinnaur valley views.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c650c",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "5N / 6D",
+    "price": 24999,
+    "description": "Experience the magic of Kashmir — Dal Lake houseboat stay, Gulmarg gondola to 13,000 ft, Pahalgam valleys and the timeless Mughal gardens of Srinagar.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/2446906a6_generated_7b13215b.jpg",
+    "category": "kashmir",
+    "highlights": [
+      "Dal Lake houseboat & shikara",
+      "Gulmarg gondola to Apharwat",
+      "Pahalgam Aru & Betaab Valley",
+      "Nishat & Shalimar Mughal gardens"
+    ],
+    "name": "Magical Kashmir",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/2446906a6_generated_7b13215b.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/574d8ce32_generated_3a1c917c.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/d23ec8656_generated_3f7fc3a1.jpg"
+    ],
+    "departure_dates": [],
+    "popular": true,
+    "destination": "Srinagar, Gulmarg & Pahalgam",
+    "short_description": "Houseboats, gondola rides and the paradise of Kashmir valley.",
+    "featured": true,
+    "id": "6ac8f25d3abe4ca9d35c650d",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "6N / 7D",
+    "price": 29999,
+    "description": "Discover the hidden gems of Kashmir beyond the usual tourist spots — Sonmarg glacier excursion, the meadows of Doodhpathri, Yusmarg, and untouched alpine valleys.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/2446906a6_generated_7b13215b.jpg",
+    "category": "kashmir",
+    "highlights": [
+      "Sonmarg glacier excursion",
+      "Doodhpathri (Valley of Milk)",
+      "Yusmarg meadows",
+      "Dal Lake houseboat stay"
+    ],
+    "name": "Hidden Gem of Kashmir",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/2446906a6_generated_7b13215b.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/574d8ce32_generated_3a1c917c.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/d23ec8656_generated_3f7fc3a1.jpg"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "Srinagar & Sonmarg",
+    "short_description": "Offbeat Kashmir — Sonmarg glaciers, Doodhpathri meadows and hidden valleys.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c650e",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "6N / 7D",
+    "price": 27999,
+    "description": "Combine the beauty of Kashmir with a spiritual pilgrimage to Vaishno Devi — Dal Lake houseboat, Gulmarg meadows, Pahalgam valleys, and the sacred shrine at Katra.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/2446906a6_generated_7b13215b.jpg",
+    "category": "kashmir",
+    "highlights": [
+      "Vaishno Devi shrine trek",
+      "Dal Lake houseboat & shikara",
+      "Gulmarg gondola ride",
+      "Pahalgam Betaab Valley"
+    ],
+    "name": "Kashmir & Vaishno Devi",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/2446906a6_generated_7b13215b.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/574d8ce32_generated_3a1c917c.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/d23ec8656_generated_3f7fc3a1.jpg"
+    ],
+    "departure_dates": [],
+    "popular": true,
+    "destination": "Kashmir & Katra",
+    "short_description": "Kashmir valley tour combined with Vaishno Devi pilgrimage.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c650f",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "6N / 7D",
+    "price": 28999,
+    "description": "Experience the best of Kashmir with the cultural heritage of Amritsar — Dal Lake, Gulmarg, Pahalgam, plus the Golden Temple, Wagah Border and Jallianwala Bagh.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/2446906a6_generated_7b13215b.jpg",
+    "category": "kashmir",
+    "highlights": [
+      "Golden Temple visit",
+      "Wagah Border ceremony",
+      "Dal Lake houseboat & shikara",
+      "Gulmarg gondola ride"
+    ],
+    "name": "Kashmir & Amritsar",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/2446906a6_generated_7b13215b.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/574d8ce32_generated_3a1c917c.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/d23ec8656_generated_3f7fc3a1.jpg"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "Kashmir & Amritsar",
+    "short_description": "Kashmir valley tour combined with the Golden Temple in Amritsar.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c6510",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "6N / 7D",
+    "price": 26999,
+    "description": "Experience the magic of Kerala — cruise the backwaters on a houseboat, explore Munnar's tea gardens, visit spice plantations, and relax on the beaches of Kovalam.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/e58e7f5ce_generated_image.png",
+    "category": "south-india",
+    "highlights": [
+      "Alleppey houseboat cruise",
+      "Munnar tea gardens",
+      "Thekkady spice plantation",
+      "Kovalam beach"
+    ],
+    "name": "Kerala",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/e58e7f5ce_generated_image.png",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a915f1420_generated_f3aaa27c.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/01f5d2b48_generated_image.png"
+    ],
+    "departure_dates": [],
+    "popular": true,
+    "destination": "Kerala",
+    "short_description": "Backwaters, houseboats, tea gardens and tropical beaches in God's Own Country.",
+    "featured": true,
+    "id": "6ac8f25d3abe4ca9d35c6511",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "4N / 5D",
+    "price": 17999,
+    "description": "Discover Visakhapatnam — beautiful beaches, the INS Kursura submarine museum, Kailasagiri hill park, and a scenic train ride to the coffee plantations of Araku Valley.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/e58e7f5ce_generated_image.png",
+    "category": "south-india",
+    "highlights": [
+      "Ramakrishna Beach & Rushikonda",
+      "Araku Valley & coffee plantations",
+      "Borra Caves exploration",
+      "Kailasagiri hill park"
+    ],
+    "name": "Vizag",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/e58e7f5ce_generated_image.png",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a915f1420_generated_f3aaa27c.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/01f5d2b48_generated_image.png"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "Visakhapatnam",
+    "short_description": "Beaches, naval heritage and the scenic Araku Valley near Vizag.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c6512",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "5N / 6D",
+    "price": 21999,
+    "description": "A spiritual journey through South India's greatest temples — Madurai Meenakshi, Rameswaram, Kanyakumari sunrise, and the rich Dravidian temple architecture.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/e58e7f5ce_generated_image.png",
+    "category": "south-india",
+    "highlights": [
+      "Meenakshi Temple, Madurai",
+      "Rameswaram Ramanathaswamy Temple",
+      "Kanyakumari sunrise & sunset",
+      "Thiruvananthapuram Padmanabhaswamy"
+    ],
+    "name": "Temple Tour",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/e58e7f5ce_generated_image.png",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a915f1420_generated_f3aaa27c.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/01f5d2b48_generated_image.png"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "Madurai, Rameswaram & Kanyakumari",
+    "short_description": "Sacred temples, cultural heritage and the southern tip of India.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c6513",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "5N / 6D",
+    "price": 22999,
+    "description": "Explore Bangalore's gardens and tech culture, then escape to the Nilgiri hills — Ooty's tea gardens, botanical gardens, toy train, and Coonoor's scenic valleys.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/e58e7f5ce_generated_image.png",
+    "category": "south-india",
+    "highlights": [
+      "Lalbagh & Cubbon Park, Bangalore",
+      "Ooty Botanical Garden",
+      "Nilgiri Mountain Railway toy train",
+      "Coonoor tea estates"
+    ],
+    "name": "Bangalore & Ooty",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/e58e7f5ce_generated_image.png",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a915f1420_generated_f3aaa27c.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/01f5d2b48_generated_image.png"
+    ],
+    "departure_dates": [],
+    "popular": true,
+    "destination": "Bangalore & Ooty",
+    "short_description": "Garden city of Bangalore combined with the Queen of Hill Stations, Ooty.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c6514",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "3N / 4D",
+    "price": 9999,
+    "description": "Experience the energetic vibe of North Goa — relax on Baga and Calangute beaches, enjoy water sports, visit Fort Aguada, and explore the lively beach shacks and nightlife.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a915f1420_generated_f3aaa27c.jpg",
+    "category": "goa",
+    "highlights": [
+      "Baga & Calangute beaches",
+      "Fort Aguada sunset",
+      "Anjuna flea market",
+      "Tito's Lane nightlife"
+    ],
+    "name": "Deluxe Goa",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a915f1420_generated_f3aaa27c.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/01f5d2b48_generated_image.png",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/e58e7f5ce_generated_image.png"
+    ],
+    "departure_dates": [],
+    "popular": true,
+    "destination": "North Goa",
+    "short_description": "Beaches, beach shacks and vibrant nightlife in North Goa.",
+    "featured": true,
+    "id": "6ac8f25d3abe4ca9d35c6515",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "4N / 5D",
+    "price": 14999,
+    "description": "Unwind on the serene beaches of South Goa — Palolem and Agonda beaches, Old Goa churches, spice plantation tour, and the laid-back charm of Goa's southern coast.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a915f1420_generated_f3aaa27c.jpg",
+    "category": "goa",
+    "highlights": [
+      "Palolem & Agonda beaches",
+      "Basilica of Bom Jesus, Old Goa",
+      "Tropical spice plantation",
+      "Dudhsagar waterfall excursion"
+    ],
+    "name": "Premium Goa",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a915f1420_generated_f3aaa27c.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/01f5d2b48_generated_image.png",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/e58e7f5ce_generated_image.png"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "South Goa",
+    "short_description": "Pristine beaches, Portuguese heritage and luxury stays in South Goa.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c6516",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "5N / 6D",
+    "price": 19999,
+    "description": "Experience the energy of Mumbai — Gateway of India, Marine Drive, Elephanta Caves — then fly to Goa for beaches, Portuguese heritage and coastal relaxation.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a915f1420_generated_f3aaa27c.jpg",
+    "category": "goa",
+    "highlights": [
+      "Gateway of India & Marine Drive",
+      "Elephanta Caves, Mumbai",
+      "Goa beaches & water sports",
+      "Old Goa churches"
+    ],
+    "name": "Mumbai & Goa",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a915f1420_generated_f3aaa27c.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/01f5d2b48_generated_image.png",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/e58e7f5ce_generated_image.png"
+    ],
+    "departure_dates": [],
+    "popular": true,
+    "destination": "Mumbai & Goa",
+    "short_description": "The buzz of Mumbai combined with the beaches of Goa.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c6517",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "4N / 5D",
+    "price": 16999,
+    "description": "An action-packed Goa adventure — scuba diving, parasailing, jet skiing, Grand Island boat trip, Dudhsagar trek, and the best adventure activities Goa has to offer.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a915f1420_generated_f3aaa27c.jpg",
+    "category": "goa",
+    "highlights": [
+      "Scuba diving at Grand Island",
+      "Parasailing & jet skiing",
+      "Dudhsagar waterfall trek",
+      "Baga beach water sports"
+    ],
+    "name": "Adventure Goa",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a915f1420_generated_f3aaa27c.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/01f5d2b48_generated_image.png",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/e58e7f5ce_generated_image.png"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "Goa",
+    "short_description": "Water sports, trekking and adventure activities across Goa.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c6518",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "7N / 8D",
+    "price": 34999,
+    "description": "Journey into the unexplored frontier of Arunachal Pradesh — the magnificent Tawang Monastery, Sela Pass at 13,700 ft, Bomdila, Dirang and the unique tribal culture of the region.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/4b003b861_generated_45cfa83c.jpg",
+    "category": "north-east-india",
+    "highlights": [
+      "Tawang Monastery (largest in India)",
+      "Sela Pass at 13,700 ft",
+      "Bomdila & Dirang valleys",
+      "Tribal village experiences"
+    ],
+    "name": "Arunachal Pradesh",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/4b003b861_generated_45cfa83c.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/5a5000c04_generated_9f1a95b2.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/56dc553fd_generated_5a7e2b29.jpg"
+    ],
+    "departure_dates": [],
+    "popular": true,
+    "destination": "Arunachal Pradesh",
+    "short_description": "Tawang Monastery, Sela Pass and the unexplored beauty of Arunachal.",
+    "featured": true,
+    "id": "6ac8f25d3abe4ca9d35c6519",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "5N / 6D",
+    "price": 22999,
+    "description": "Explore the stunning landscapes of Meghalaya — living root bridges of Cherrapunji, Nohkalikai Falls, Mawlynnong (Asia's cleanest village), and the limestone caves of the region.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/4b003b861_generated_45cfa83c.jpg",
+    "category": "north-east-india",
+    "highlights": [
+      "Double-decker living root bridge",
+      "Nohkalikai Falls (India's tallest)",
+      "Mawlynnong (Asia's cleanest village)",
+      "Mawsmai limestone caves"
+    ],
+    "name": "Meghalaya",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/4b003b861_generated_45cfa83c.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/5a5000c04_generated_9f1a95b2.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/56dc553fd_generated_5a7e2b29.jpg"
+    ],
+    "departure_dates": [],
+    "popular": true,
+    "destination": "Meghalaya",
+    "short_description": "Living root bridges, waterfalls and the cleanest village in Asia.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c651a",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "4N / 5D",
+    "price": 18999,
+    "description": "Discover Assam — thrilling wildlife safaris in Kaziranga National Park (UNESCO World Heritage), one-horned rhino spotting, tea garden visits, and a sunset cruise on the Brahmaputra.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/4b003b861_generated_45cfa83c.jpg",
+    "category": "north-east-india",
+    "highlights": [
+      "Kaziranga jeep & elephant safari",
+      "One-horned rhino sightings",
+      "Tea garden factory visit",
+      "Brahmaputra sunset cruise"
+    ],
+    "name": "Assam",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/4b003b861_generated_45cfa83c.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/5a5000c04_generated_9f1a95b2.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/56dc553fd_generated_5a7e2b29.jpg"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "Assam",
+    "short_description": "Kaziranga rhino safari, tea gardens and the mighty Brahmaputra.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c651b",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "4N / 5D",
+    "price": 16999,
+    "description": "Explore the cultural heritage of Tripura — Ujjayanta Palace, Neermahal water palace, Unakoti ancient rock carvings, and the rich tribal culture of this northeastern state.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/4b003b861_generated_45cfa83c.jpg",
+    "category": "north-east-india",
+    "highlights": [
+      "Ujjayanta Palace, Agartala",
+      "Neermahal water palace",
+      "Unakoti rock carvings",
+      "Tribal cultural experience"
+    ],
+    "name": "Tripura",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/4b003b861_generated_45cfa83c.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/5a5000c04_generated_9f1a95b2.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/56dc553fd_generated_5a7e2b29.jpg"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "Tripura",
+    "short_description": "Royal palaces, ancient temples and the cultural heritage of Tripura.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c651c",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "2N / 3D",
+    "price": 7999,
+    "description": "Explore the world's largest mangrove forest — Sundarbans. Enjoy boat safaris through narrow creeks, watch towers, bird watching, and the unique culture of the tiger country.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/988977fcb_generated_image.png",
+    "category": "south-bengal",
+    "highlights": [
+      "Boat safari in mangrove creeks",
+      "Sajnekhali watch tower",
+      "Royal Bengal Tiger habitat",
+      "Local village cultural experience"
+    ],
+    "name": "Sundarbans",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/988977fcb_generated_image.png",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/56dc553fd_generated_5a7e2b29.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a915f1420_generated_f3aaa27c.jpg"
+    ],
+    "departure_dates": [],
+    "popular": true,
+    "destination": "Sundarbans",
+    "short_description": "Mangrove forest boat safaris in search of the Royal Bengal Tiger.",
+    "featured": true,
+    "id": "6ac8f25d3abe4ca9d35c651d",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "2N / 3D",
+    "price": 6999,
+    "description": "Discover the rugged beauty of Purulia — Matha hill, Ayodhya Hills, Baranti lake, ancient rock formations, and the vibrant Chhau dance of the local tribal communities.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/988977fcb_generated_image.png",
+    "category": "south-bengal",
+    "highlights": [
+      "Ayodhya Hills & Matha hill",
+      "Baranti lake sunset",
+      "Khairabera dam & waterfalls",
+      "Chhau tribal dance performance"
+    ],
+    "name": "Purulia",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/988977fcb_generated_image.png",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/56dc553fd_generated_5a7e2b29.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a915f1420_generated_f3aaa27c.jpg"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "Purulia",
+    "short_description": "Rock formations, waterfalls and tribal culture in the red earth hills.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c651e",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "2N / 3D",
+    "price": 6499,
+    "description": "Explore the artistic heritage of Bankura — terracotta temples of Bishnupur, the famous Bankura horse, Baluchari sarees, and the rich rural craft traditions of Bengal.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/988977fcb_generated_image.png",
+    "category": "south-bengal",
+    "highlights": [
+      "Bishnupur terracotta temples",
+      "Bankura horse craft village",
+      "Baluchari saree weaving",
+      "Mukutmanipur dam & lake"
+    ],
+    "name": "Bankura",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/988977fcb_generated_image.png",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/56dc553fd_generated_5a7e2b29.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a915f1420_generated_f3aaa27c.jpg"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "Bankura",
+    "short_description": "Terracotta temples, handicrafts and the rural art of Bengal.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c651f",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "2N / 3D",
+    "price": 7499,
+    "description": "A relaxing beach getaway at Mandarmani and Digha — long drives on the beach, fresh seafood, sunrise walks, and the laid-back charm of Bengal's coast.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/988977fcb_generated_image.png",
+    "category": "south-bengal",
+    "highlights": [
+      "Mandarmani beach drive",
+      "Digha marine aquarium",
+      "Shankarpur fishing village",
+      "Fresh seafood & beach sunset"
+    ],
+    "name": "Mandarmani & Digha",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/988977fcb_generated_image.png",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/56dc553fd_generated_5a7e2b29.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a915f1420_generated_f3aaa27c.jpg"
+    ],
+    "departure_dates": [],
+    "popular": true,
+    "destination": "Mandarmani & Digha",
+    "short_description": "Beach getaway with sea breeze, seafood and sunrise walks.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c6520",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "5N / 6D",
+    "price": 24999,
+    "description": "Discover the cultural and natural beauty of Nepal — ancient temples of Kathmandu, the serene lakeside city of Pokhara, Annapurna mountain views, and the birthplace of Buddha at Lumbini.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/6263bbad7_generated_0023d16e.jpg",
+    "category": "international",
+    "highlights": [
+      "Pashupatinath & Boudhanath, Kathmandu",
+      "Pokhara Phewa Lake boating",
+      "Sarangkot sunrise & Annapurna view",
+      "Lumbini (birthplace of Buddha)"
+    ],
+    "name": "Nepal",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/6263bbad7_generated_0023d16e.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/2446906a6_generated_7b13215b.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/574d8ce32_generated_3a1c917c.jpg"
+    ],
+    "departure_dates": [],
+    "popular": true,
+    "destination": "Kathmandu & Pokhara, Nepal",
+    "short_description": "Ancient temples, Himalayan views and lakeside serenity in Nepal.",
+    "featured": true,
+    "id": "6ac8f25d3abe4ca9d35c6521",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "6N / 7D",
+    "price": 39999,
+    "description": "Journey to the Dragon Kingdom of Bhutan — trek to the iconic Tiger's Nest monastery, explore Thimphu and Punakha dzongs, and experience the unique culture of the Last Shangri-La.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/6263bbad7_generated_0023d16e.jpg",
+    "category": "international",
+    "highlights": [
+      "Tiger's Nest (Taktsang) monastery trek",
+      "Punakha Dzong & suspension bridge",
+      "Dochula Pass 108 stupas",
+      "Thimphu cultural tour"
+    ],
+    "name": "Bhutan",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/6263bbad7_generated_0023d16e.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/2446906a6_generated_7b13215b.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/574d8ce32_generated_3a1c917c.jpg"
+    ],
+    "departure_dates": [],
+    "popular": true,
+    "destination": "Paro, Thimphu & Punakha, Bhutan",
+    "short_description": "The Last Shangri-La — Tiger's Nest, dzongs and Gross National Happiness.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c6522",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "5N / 6D",
+    "price": 34999,
+    "description": "Experience the tropical paradise of Thailand — Phuket beaches, Phi Phi Islands, Krabi's limestone cliffs, Thai massage, and the vibrant street food and nightlife of Phuket.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/6263bbad7_generated_0023d16e.jpg",
+    "category": "international",
+    "highlights": [
+      "Phi Phi Islands tour",
+      "Phang Nga Bay & James Bond Island",
+      "Krabi Railay Beach",
+      "Thai massage & cultural show"
+    ],
+    "name": "Thailand",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/6263bbad7_generated_0023d16e.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/2446906a6_generated_7b13215b.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/574d8ce32_generated_3a1c917c.jpg"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "Phuket & Krabi, Thailand",
+    "short_description": "Tropical beaches, island hopping and vibrant Thai culture.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c6523",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "4N / 5D",
+    "price": 29999,
+    "description": "Explore the vibrant city of Bangkok — Grand Palace, Wat Pho, floating markets, shopping, plus a day trip to Pattaya beach and Coral Island for sun and sand.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/6263bbad7_generated_0023d16e.jpg",
+    "category": "international",
+    "highlights": [
+      "Grand Palace & Wat Pho",
+      "Damnoen Saduak floating market",
+      "Pattaya & Coral Island",
+      "Bangkok shopping & nightlife"
+    ],
+    "name": "Bangkok",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/6263bbad7_generated_0023d16e.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/2446906a6_generated_7b13215b.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/574d8ce32_generated_3a1c917c.jpg"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "Bangkok & Pattaya, Thailand",
+    "short_description": "Temples, shopping, floating markets and Pattaya beach in Thailand.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c6524",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "3N / 4D",
+    "price": 19999,
+    "description": "A quick tropical escape to the Andaman Islands — Port Blair's Cellular Jail, the world-famous Radhanagar Beach at Havelock, and crystal-clear waters for snorkeling.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/01f5d2b48_generated_image.png",
+    "category": "andaman",
+    "highlights": [
+      "Radhanagar Beach (Asia's best beach)",
+      "Cellular Jail Light & Sound show",
+      "Havelock Island snorkeling",
+      "Beachside resort stay"
+    ],
+    "name": "Small Andaman",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/01f5d2b48_generated_image.png",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a915f1420_generated_f3aaa27c.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/e58e7f5ce_generated_image.png"
+    ],
+    "departure_dates": [],
+    "popular": true,
+    "destination": "Port Blair & Havelock",
+    "short_description": "Radhanagar Beach and the turquoise waters of Havelock Island.",
+    "featured": true,
+    "id": "6ac8f25d3abe4ca9d35c6525",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "4N / 5D",
+    "price": 24999,
+    "description": "Explore more of the Andamans — Port Blair's history, Havelock's Radhanagar Beach, and the serene Bharatpur Beach at Neil Island, with snorkeling and glass-bottom boat rides.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/01f5d2b48_generated_image.png",
+    "category": "andaman",
+    "highlights": [
+      "Radhanagar Beach, Havelock",
+      "Neil Island & Bharatpur Beach",
+      "Cellular Jail & Ross Island",
+      "Snorkeling & glass-bottom boat"
+    ],
+    "name": "Medium Andaman",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/01f5d2b48_generated_image.png",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a915f1420_generated_f3aaa27c.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/e58e7f5ce_generated_image.png"
+    ],
+    "departure_dates": [],
+    "popular": true,
+    "destination": "Port Blair, Havelock & Neil Island",
+    "short_description": "Three islands — Port Blair, Havelock and the serene Neil Island.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c6526",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "5N / 6D",
+    "price": 29999,
+    "description": "The ultimate Andaman tour — Port Blair, Havelock, Neil Island, and the limestone caves and mangrove creeks of Baratang, with the best beaches, snorkeling and island experiences.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/01f5d2b48_generated_image.png",
+    "category": "andaman",
+    "highlights": [
+      "Radhanagar Beach, Havelock",
+      "Baratang limestone caves & mangroves",
+      "Neil Island beaches",
+      "Ross Island & North Bay snorkeling"
+    ],
+    "name": "Large Andaman",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/01f5d2b48_generated_image.png",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a915f1420_generated_f3aaa27c.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/e58e7f5ce_generated_image.png"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "Port Blair, Havelock, Neil & Baratang",
+    "short_description": "The complete Andaman experience — four islands with beaches, caves and mangroves.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c6527",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "4N / 5D",
+    "price": 16999,
+    "description": "Travel with a group to Gangtok — Tsomgo Lake, Nathula Pass, MG Marg, Baba Mandir, and shared experiences with fellow travellers. All meals, transport and stays included.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/5a5000c04_generated_9f1a95b2.jpg",
+    "category": "group",
+    "highlights": [
+      "Tsomgo Lake & Nathula Pass",
+      "Gangtok MG Marg shopping",
+      "Group bonfire & cultural evening",
+      "All meals & transport included"
+    ],
+    "name": "Gangtok Group Tour",
+    "type": "group",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/5a5000c04_generated_9f1a95b2.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/d23ec8656_generated_3f7fc3a1.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a31448355_generated_e90bb133.jpg"
+    ],
+    "departure_dates": [
+      "22/01/2027",
+      "03/02/2027",
+      "12/03/2027"
+    ],
+    "popular": true,
+    "destination": "Gangtok, Sikkim",
+    "short_description": "Join our group departure to Gangtok with Tsomgo Lake and Nathula Pass.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c6528",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "3N / 4D",
+    "price": 12999,
+    "description": "Join our group tour to Darjeeling — Tiger Hill sunrise, UNESCO toy train, tea gardens, Batasia Loop, and shared memories with fellow travellers. All meals and transport included.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/d23ec8656_generated_3f7fc3a1.jpg",
+    "category": "group",
+    "highlights": [
+      "Tiger Hill sunrise",
+      "UNESCO Toy Train ride",
+      "Happy Valley Tea Estate",
+      "Group dinner & cultural evening"
+    ],
+    "name": "Darjeeling Group Tour",
+    "type": "group",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/d23ec8656_generated_3f7fc3a1.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/5a5000c04_generated_9f1a95b2.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a31448355_generated_e90bb133.jpg"
+    ],
+    "departure_dates": [
+      "22/01/2027",
+      "03/02/2027",
+      "12/03/2027"
+    ],
+    "popular": true,
+    "destination": "Darjeeling",
+    "short_description": "Group departure to Darjeeling with Tiger Hill, toy train and tea gardens.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c6529",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "5N / 6D",
+    "price": 22999,
+    "description": "Travel with a group to paradise on earth — Dal Lake houseboat, Gulmarg gondola, Pahalgam valleys, Mughal gardens, and shared experiences. All meals and transport included.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/2446906a6_generated_7b13215b.jpg",
+    "category": "group",
+    "highlights": [
+      "Dal Lake houseboat & shikara",
+      "Gulmarg gondola ride",
+      "Pahalgam Betaab Valley",
+      "Group bonfire & Kashmiri dinner"
+    ],
+    "name": "Kashmir Group Tour",
+    "type": "group",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/2446906a6_generated_7b13215b.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/574d8ce32_generated_3a1c917c.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/d23ec8656_generated_3f7fc3a1.jpg"
+    ],
+    "departure_dates": [
+      "16/02/2027",
+      "14/03/2027"
+    ],
+    "popular": true,
+    "destination": "Srinagar, Gulmarg & Pahalgam",
+    "short_description": "Group departure to Kashmir with houseboat, Gulmarg and Pahalgam.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c652a",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "3N / 4D",
+    "price": 10999,
+    "description": "Join our group tour to Goa — Baga and Calangute beaches, water sports, Fort Aguada, beach parties, and shared fun with fellow travellers. All meals and transport included.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a915f1420_generated_f3aaa27c.jpg",
+    "category": "group",
+    "highlights": [
+      "Baga & Calangute beaches",
+      "Water sports & beach party",
+      "Fort Aguada & Old Goa churches",
+      "Group beach dinner & nightlife"
+    ],
+    "name": "Goa Group Tour",
+    "type": "group",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a915f1420_generated_f3aaa27c.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/01f5d2b48_generated_image.png",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/e58e7f5ce_generated_image.png"
+    ],
+    "departure_dates": [
+      "08/03/2027",
+      "15/03/2027"
+    ],
+    "popular": true,
+    "destination": "Goa",
+    "short_description": "Group departure to Goa with beaches, water sports and nightlife.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c652b",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "4N / 5D",
+    "price": 17999,
+    "description": "Travel with a group along the ancient Old Silk Route — Zuluk, Nathang Valley, Kupup Lake, and the historic trade path. Shared homestays, meals and transport included.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/5a5000c04_generated_9f1a95b2.jpg",
+    "category": "group",
+    "highlights": [
+      "Zuluk zigzag road (108 bends)",
+      "Nathang Valley golden meadows",
+      "Kupup Lake at 13,000 ft",
+      "Group bonfire & homestay experience"
+    ],
+    "name": "Old Silk Route Group Tour",
+    "type": "group",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/5a5000c04_generated_9f1a95b2.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/d23ec8656_generated_3f7fc3a1.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a31448355_generated_e90bb133.jpg"
+    ],
+    "departure_dates": [
+      "03/02/2027",
+      "12/03/2027"
+    ],
+    "popular": false,
+    "destination": "Old Silk Route, Sikkim",
+    "short_description": "Group departure along the historic Old Silk Route through pristine Sikkim.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c652c",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "2N / 3D",
+    "price": 49999,
+    "description": "Professional corporate team outings designed to build camaraderie — adventure activities, team challenges, comfortable stays, meals, and customized itineraries for your team.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/2ea6235b2_generated_2b6ca1e4.jpg",
+    "category": "corporate",
+    "highlights": [
+      "Adventure & team-building activities",
+      "Comfortable resort stays",
+      "All meals & refreshments",
+      "Customized itinerary"
+    ],
+    "name": "Corporate Team Outings",
+    "type": "corporate",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/2ea6235b2_generated_2b6ca1e4.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/8da5d2fc0_generated_8c20bd28.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/aec9b25b2_generated_04f0b624.jpg"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "Custom",
+    "short_description": "Curated team outings with adventure, bonding and fun activities.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c652d",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "1N / 2D",
+    "price": 29999,
+    "description": "Well-organized office picnics — scenic venues, outdoor games, team activities, delicious food, and a refreshing day out for your entire office team.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/aec9b25b2_generated_04f0b624.jpg",
+    "category": "corporate",
+    "highlights": [
+      "Scenic picnic venue",
+      "Team games & activities",
+      "Catered meals & refreshments",
+      "Transport included"
+    ],
+    "name": "Office Picnics",
+    "type": "corporate",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/aec9b25b2_generated_04f0b624.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/2ea6235b2_generated_2b6ca1e4.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/8da5d2fc0_generated_8c20bd28.jpg"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "Custom",
+    "short_description": "Fun-filled office picnics with games, food and relaxation.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c652e",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "2N / 3D",
+    "price": 54999,
+    "description": "Professional team-building programs — adventure challenges, problem-solving activities, trust exercises, and facilitated sessions to strengthen team bonds and communication.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/8da5d2fc0_generated_8c20bd28.jpg",
+    "category": "corporate",
+    "highlights": [
+      "Adventure team challenges",
+      "Facilitated team-building sessions",
+      "Problem-solving activities",
+      "Resort stay & meals"
+    ],
+    "name": "Team-Building Activities",
+    "type": "corporate",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/8da5d2fc0_generated_8c20bd28.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/2ea6235b2_generated_2b6ca1e4.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/aec9b25b2_generated_04f0b624.jpg"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "Custom",
+    "short_description": "Structured team-building programs with adventure and experiential learning.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c652f",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "3N / 4D",
+    "price": 79999,
+    "description": "Premium corporate retreats — strategic planning sessions, wellness activities, spa treatments, team dinners, and a productive yet relaxing getaway for leadership and teams.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/2ea6235b2_generated_2b6ca1e4.jpg",
+    "category": "corporate",
+    "highlights": [
+      "Strategic planning sessions",
+      "Wellness & spa activities",
+      "Team dinner & networking",
+      "Premium resort stay"
+    ],
+    "name": "Corporate Retreats",
+    "type": "corporate",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/2ea6235b2_generated_2b6ca1e4.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/8da5d2fc0_generated_8c20bd28.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/aec9b25b2_generated_04f0b624.jpg"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "Custom",
+    "short_description": "Strategic retreats with wellness, strategy sessions and relaxation.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c6530",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "3N / 4D",
+    "price": 64999,
+    "description": "Employee recreation tours — a well-deserved break for your team with sightseeing, adventure, relaxation, cultural experiences, and all-inclusive arrangements.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/aec9b25b2_generated_04f0b624.jpg",
+    "category": "corporate",
+    "highlights": [
+      "Sightseeing & cultural experiences",
+      "Adventure activities",
+      "All-inclusive arrangements",
+      "Team bonding experiences"
+    ],
+    "name": "Employee Recreation Tours",
+    "type": "corporate",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/aec9b25b2_generated_04f0b624.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/2ea6235b2_generated_2b6ca1e4.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/8da5d2fc0_generated_8c20bd28.jpg"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "Custom",
+    "short_description": "Reward your employees with a memorable recreational tour.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c6531",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "Custom",
+    "price": 99999,
+    "description": "Complete conference and business travel solutions — venue booking, accommodation, transport, catering, AV equipment, and on-ground coordination for seamless corporate events.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/2ea6235b2_generated_2b6ca1e4.jpg",
+    "category": "corporate",
+    "highlights": [
+      "Venue & accommodation booking",
+      "Transport & catering arrangements",
+      "AV equipment & on-ground support",
+      "End-to-end event management"
+    ],
+    "name": "Conference and Business Travel",
+    "type": "corporate",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/2ea6235b2_generated_2b6ca1e4.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/8da5d2fc0_generated_8c20bd28.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/aec9b25b2_generated_04f0b624.jpg"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "Custom",
+    "short_description": "End-to-end conference and business travel management.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c6532",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "1 Day",
+    "price": 999,
+    "description": "Well-planned one-day trips to nearby destinations — perfect for a quick break with sightseeing, local food, and a change of scenery without overnight stays.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/e9efbb9e3_generated_adf02b15.jpg",
+    "category": "excursion",
+    "highlights": [
+      "Comfortable AC transport",
+      "Sightseeing & local guide",
+      "Lunch included",
+      "Pickup & drop"
+    ],
+    "name": "One-Day Trips",
+    "type": "excursion",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/e9efbb9e3_generated_adf02b15.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/56dc553fd_generated_5a7e2b29.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/4b003b861_generated_45cfa83c.jpg"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "Various",
+    "short_description": "Quick day trips to nearby destinations for a refreshing break.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c6533",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "2N / 3D",
+    "price": 4999,
+    "description": "Weekend excursions to nearby hill stations, forests or beaches — two nights of relaxation, sightseeing, and adventure, perfect for a quick escape from the city.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/56dc553fd_generated_5a7e2b29.jpg",
+    "category": "excursion",
+    "highlights": [
+      "2-night comfortable stay",
+      "Sightseeing & activities",
+      "All meals included",
+      "AC transport"
+    ],
+    "name": "Weekend Excursions",
+    "type": "excursion",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/56dc553fd_generated_5a7e2b29.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/e9efbb9e3_generated_adf02b15.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/4b003b861_generated_45cfa83c.jpg"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "Various",
+    "short_description": "Short weekend getaways to recharge and explore.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c6534",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "2N / 3D",
+    "price": 3999,
+    "description": "Educational tours designed for schools and colleges — visits to historical sites, science centers, museums, and nature reserves, with safe transport and knowledgeable guides.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/4b003b861_generated_45cfa83c.jpg",
+    "category": "excursion",
+    "highlights": [
+      "Educational site visits",
+      "Knowledgeable local guides",
+      "Safe & comfortable transport",
+      "All meals & accommodation"
+    ],
+    "name": "School and College Educational Tours",
+    "type": "excursion",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/4b003b861_generated_45cfa83c.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/e9efbb9e3_generated_adf02b15.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/56dc553fd_generated_5a7e2b29.jpg"
+    ],
+    "departure_dates": [],
+    "popular": true,
+    "destination": "Various",
+    "short_description": "Educational tours with learning, fun and safety for students.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c6535",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "2N / 3D",
+    "price": 5999,
+    "description": "Nature and wildlife excursions — jungle safaris, bird watching, nature walks, and stays near forests or sanctuaries, perfect for wildlife and nature lovers.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/56dc553fd_generated_5a7e2b29.jpg",
+    "category": "excursion",
+    "highlights": [
+      "Wildlife jeep safari",
+      "Bird watching & nature walk",
+      "Forest eco-stay",
+      "Naturalist guide"
+    ],
+    "name": "Nature and Wildlife Excursions",
+    "type": "excursion",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/56dc553fd_generated_5a7e2b29.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/e9efbb9e3_generated_adf02b15.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/4b003b861_generated_45cfa83c.jpg"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "Various",
+    "short_description": "Wildlife safaris and nature walks for nature enthusiasts.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c6536",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "2N / 3D",
+    "price": 6999,
+    "description": "Adventure excursions — trekking, river rafting, rock climbing, camping, and outdoor activities for thrill-seekers and adventure enthusiasts.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/574d8ce32_generated_3a1c917c.jpg",
+    "category": "excursion",
+    "highlights": [
+      "Trekking & camping",
+      "River rafting / adventure sports",
+      "Outdoor BBQ & bonfire",
+      "All equipment provided"
+    ],
+    "name": "Adventure Excursions",
+    "type": "excursion",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/574d8ce32_generated_3a1c917c.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/e9efbb9e3_generated_adf02b15.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/56dc553fd_generated_5a7e2b29.jpg"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "Various",
+    "short_description": "Trekking, river rafting and outdoor adventure activities.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c6537",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "1 Day",
+    "price": 799,
+    "description": "Relaxing picnic and local sightseeing trips — scenic picnic spots, outdoor games, local food, and a fun day out with family, friends or colleagues.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/e9efbb9e3_generated_adf02b15.jpg",
+    "category": "excursion",
+    "highlights": [
+      "Scenic picnic spot",
+      "Outdoor games & activities",
+      "Catered picnic lunch",
+      "Local sightseeing"
+    ],
+    "name": "Picnic and Local Sightseeing Trips",
+    "type": "excursion",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/e9efbb9e3_generated_adf02b15.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/56dc553fd_generated_5a7e2b29.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/4b003b861_generated_45cfa83c.jpg"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "Various",
+    "short_description": "Fun picnic trips with local sightseeing and outdoor games.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c6538",
+    "created_date": "2026-10-09T13:55:41.002000",
+    "updated_date": "2026-10-09T13:55:41.002000",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "3N / 4D",
+    "price": 12999,
+    "description": "Experience the timeless charm of Darjeeling — ride the UNESCO toy train, watch the sunrise at Tiger Hill, stroll through emerald tea gardens and soak in panoramic Kanchenjunga views.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/d23ec8656_generated_3f7fc3a1.jpg",
+    "category": "darjeeling-offbeat",
+    "highlights": [
+      "Tiger Hill sunrise",
+      "UNESCO Toy Train ride",
+      "Happy Valley Tea Estate",
+      "Batasia Loop & War Memorial"
+    ],
+    "name": "Darjeeling Classic",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/d23ec8656_generated_3f7fc3a1.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/5a5000c04_generated_9f1a95b2.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a31448355_generated_e90bb133.jpg"
+    ],
+    "departure_dates": [],
+    "popular": true,
+    "destination": "Darjeeling",
+    "short_description": "Tea gardens, toy train and Tiger Hill sunrise in the Queen of the Hills.",
+    "featured": true,
+    "id": "6ac8f25d3abe4ca9d35c64fc",
+    "created_date": "2026-10-09T13:55:41",
+    "updated_date": "2026-10-09T13:55:41",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "4N / 5D",
+    "price": 15999,
+    "description": "Go beyond the tourist trail to discover offbeat Darjeeling — hidden villages like Tinchuley and Lamahatta, peaceful homestays, orange orchards and untouched mountain views.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/d23ec8656_generated_3f7fc3a1.jpg",
+    "category": "darjeeling-offbeat",
+    "highlights": [
+      "Tinchuley village homestay",
+      "Lamahatta pine forest walk",
+      "Takdah heritage bungalows",
+      "Sunrise from Tinchuley"
+    ],
+    "name": "Offbeat Darjeeling",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/d23ec8656_generated_3f7fc3a1.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/5a5000c04_generated_9f1a95b2.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a31448355_generated_e90bb133.jpg"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "Darjeeling Offbeat",
+    "short_description": "Explore hidden villages, homestays and off-the-grid Himalayan charm.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c64fd",
+    "created_date": "2026-10-09T13:55:41",
+    "updated_date": "2026-10-09T13:55:41",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "3N / 4D",
+    "price": 10999,
+    "description": "Escape to the peaceful hill station of Kalimpong — visit flower nurseries, colonial-era churches and enjoy breathtaking views of the Teesta valley and distant Himalayan ranges.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/d23ec8656_generated_3f7fc3a1.jpg",
+    "category": "darjeeling-offbeat",
+    "highlights": [
+      "Delo Hill & Pine View Point",
+      "Kalimpong flower nurseries",
+      "Morgan House colonial bungalow",
+      "Teesta river view"
+    ],
+    "name": "Kalimpong Getaway",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/d23ec8656_generated_3f7fc3a1.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/5a5000c04_generated_9f1a95b2.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a31448355_generated_e90bb133.jpg"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "Kalimpong",
+    "short_description": "Flower nurseries, colonial charm and panoramic valley views.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c64fe",
+    "created_date": "2026-10-09T13:55:41",
+    "updated_date": "2026-10-09T13:55:41",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "5N / 6D",
+    "price": 19999,
+    "description": "Combine classic Darjeeling sights with offbeat village experiences — Tiger Hill, toy train, tea gardens plus Tinchuley homestays, Lamahatta pine forests and Takdah heritage bungalows.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/d23ec8656_generated_3f7fc3a1.jpg",
+    "category": "darjeeling-offbeat",
+    "highlights": [
+      "Tiger Hill & toy train",
+      "Tinchuley offbeat homestay",
+      "Lamahatta eco park",
+      "Kalimpong Delo Hill"
+    ],
+    "name": "Darjeeling with Offbeat",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/d23ec8656_generated_3f7fc3a1.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/5a5000c04_generated_9f1a95b2.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a31448355_generated_e90bb133.jpg"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "Darjeeling & Tinchuley",
+    "short_description": "The best of Darjeeling town combined with hidden offbeat villages.",
+    "featured": true,
+    "id": "6ac8f25d3abe4ca9d35c64ff",
+    "created_date": "2026-10-09T13:55:41",
+    "updated_date": "2026-10-09T13:55:41",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "5N / 6D",
+    "price": 18999,
+    "description": "Experience Kalimpong's flower nurseries and colonial charm, then escape to the tranquil forests of Lava and Loleygaon — canopy walks, Neora Valley and sunrise over Kanchenjunga.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/d23ec8656_generated_3f7fc3a1.jpg",
+    "category": "darjeeling-offbeat",
+    "highlights": [
+      "Kalimpong Delo Hill",
+      "Loleygaon canopy walk",
+      "Neora Valley National Park",
+      "Sunrise from Jhandi Dara"
+    ],
+    "name": "Kalimpong with Offbeat",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/d23ec8656_generated_3f7fc3a1.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/5a5000c04_generated_9f1a95b2.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a31448355_generated_e90bb133.jpg"
+    ],
+    "departure_dates": [],
+    "popular": true,
+    "destination": "Kalimpong & Lava",
+    "short_description": "Kalimpong's charm blended with Lava-Loleygaon forest escape.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c6500",
+    "created_date": "2026-10-09T13:55:41",
+    "updated_date": "2026-10-09T13:55:41",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "4N / 5D",
+    "price": 17999,
+    "description": "Explore Gangtok's vibrant culture, visit the crystal-clear Tsomgo Lake, cross the historic Nathula Pass at 14,140 ft, and experience the spiritual heart of Sikkim.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/5a5000c04_generated_9f1a95b2.jpg",
+    "category": "sikkim",
+    "highlights": [
+      "Tsomgo (Changu) Lake",
+      "Nathula Pass at 14,140 ft",
+      "Gangtok MG Marg & cable car",
+      "Baba Mandir visit"
+    ],
+    "name": "Gangtok with Tsomgo Lake",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/5a5000c04_generated_9f1a95b2.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/d23ec8656_generated_3f7fc3a1.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a31448355_generated_e90bb133.jpg"
+    ],
+    "departure_dates": [],
+    "popular": true,
+    "destination": "Gangtok, Sikkim",
+    "short_description": "Gangtok city tour with the crystal-clear Tsomgo Lake and Nathula Pass.",
+    "featured": true,
+    "id": "6ac8f25d3abe4ca9d35c6501",
+    "created_date": "2026-10-09T13:55:41",
+    "updated_date": "2026-10-09T13:55:41",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "4N / 5D",
+    "price": 19999,
+    "description": "Journey along the ancient Old Silk Route — Zuluk, Nathang Valley, Kupup Lake and the historic trade path to the Indo-China border through untouched Himalayan wilderness.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/5a5000c04_generated_9f1a95b2.jpg",
+    "category": "sikkim",
+    "highlights": [
+      "Zuluk zigzag road (108 bends)",
+      "Nathang Valley golden meadows",
+      "Kupup Lake at 13,000 ft",
+      "Old Baba Mandir"
+    ],
+    "name": "Old Silk Route",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/5a5000c04_generated_9f1a95b2.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/d23ec8656_generated_3f7fc3a1.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a31448355_generated_e90bb133.jpg"
+    ],
+    "departure_dates": [],
+    "popular": true,
+    "destination": "Old Silk Route, Sikkim",
+    "short_description": "Travel the historic trade route through pristine Himalayan landscapes.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c6502",
+    "created_date": "2026-10-09T13:55:41",
+    "updated_date": "2026-10-09T13:55:41",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "6N / 7D",
+    "price": 27999,
+    "description": "Venture into the pristine wilderness of North Sikkim — witness the sacred Gurudongmar Lake at 17,800 ft, relax in the Yumthang Valley of Flowers, and experience Lachen and Lachung villages.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/5a5000c04_generated_9f1a95b2.jpg",
+    "category": "sikkim",
+    "highlights": [
+      "Gurudongmar Lake at 17,800 ft",
+      "Yumthang Valley of Flowers",
+      "Lachen & Lachung village stays",
+      "Hot springs at Yume Samdong"
+    ],
+    "name": "North Sikkim - Lachen & Lachung",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/5a5000c04_generated_9f1a95b2.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/d23ec8656_generated_3f7fc3a1.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a31448355_generated_e90bb133.jpg"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "Lachen & Lachung, Sikkim",
+    "short_description": "Sacred Gurudongmar Lake and Yumthang Valley of Flowers.",
+    "featured": true,
+    "id": "6ac8f25d3abe4ca9d35c6503",
+    "created_date": "2026-10-09T13:55:41",
+    "updated_date": "2026-10-09T13:55:41",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "4N / 5D",
+    "price": 16999,
+    "description": "Discover the peaceful beauty of South Sikkim — visit Pelling, the Rabdentse Ruins, Pemayangtse Monastery and the Sky Walk at Chenrezig statue, with stunning Kanchenjunga views.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/5a5000c04_generated_9f1a95b2.jpg",
+    "category": "sikkim",
+    "highlights": [
+      "Pemayangtse Monastery",
+      "Rabdentse Ruins",
+      "Chenrezig Statue & Sky Walk",
+      "Kanchenjunga Falls"
+    ],
+    "name": "South Sikkim",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/5a5000c04_generated_9f1a95b2.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/d23ec8656_generated_3f7fc3a1.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a31448355_generated_e90bb133.jpg"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "South Sikkim",
+    "short_description": "Monasteries, hilltop views and the serene landscapes of South Sikkim.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c6504",
+    "created_date": "2026-10-09T13:55:41",
+    "updated_date": "2026-10-09T13:55:41",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "2N / 3D",
+    "price": 8999,
+    "description": "A short but thrilling Dooars getaway — enjoy a jeep safari in Jaldapara or Gorumara, spot one-horned rhinos and wild elephants, and relax in the lush Himalayan foothills.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/56dc553fd_generated_5a7e2b29.jpg",
+    "category": "dooars",
+    "highlights": [
+      "Jeep safari in Jaldapara",
+      "One-horned rhino spotting",
+      "Nature walk in forest",
+      "Local tribal village visit"
+    ],
+    "name": "Dooars Small",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/56dc553fd_generated_5a7e2b29.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a31448355_generated_e90bb133.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/4b003b861_generated_45cfa83c.jpg"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "Dooars",
+    "short_description": "A quick wildlife getaway with jeep safari and nature walks.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c6505",
+    "created_date": "2026-10-09T13:55:41",
+    "updated_date": "2026-10-09T13:55:41",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "3N / 4D",
+    "price": 11999,
+    "description": "Explore the rich biodiversity of Dooars with safaris in both Jaldapara and Gorumara forests, watchtower visits, and nature walks through the lush green canopy.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/56dc553fd_generated_5a7e2b29.jpg",
+    "category": "dooars",
+    "highlights": [
+      "Jaldapara & Gorumara safaris",
+      "Chapramari watch tower",
+      "Jhalong bird watching",
+      "Suntalekhola nature camp"
+    ],
+    "name": "Dooars Medium",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/56dc553fd_generated_5a7e2b29.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a31448355_generated_e90bb133.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/4b003b861_generated_45cfa83c.jpg"
+    ],
+    "departure_dates": [],
+    "popular": true,
+    "destination": "Dooars",
+    "short_description": "Two wildlife sanctuaries with jeep safaris and watchtower visits.",
+    "featured": true,
+    "id": "6ac8f25d3abe4ca9d35c6506",
+    "created_date": "2026-10-09T13:55:41",
+    "updated_date": "2026-10-09T13:55:41",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "4N / 5D",
+    "price": 15999,
+    "description": "The full Dooars experience — multiple wildlife safaris, tea estate visits, riverside camping at Suntalekhola, and the unique culture of the Himalayan foothills.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/56dc553fd_generated_5a7e2b29.jpg",
+    "category": "dooars",
+    "highlights": [
+      "Jaldapara & Gorumara safaris",
+      "Tea estate factory tour",
+      "Suntalekhola riverside camp",
+      "Chapramari Wildlife Sanctuary"
+    ],
+    "name": "Dooars Large",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/56dc553fd_generated_5a7e2b29.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a31448355_generated_e90bb133.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/4b003b861_generated_45cfa83c.jpg"
+    ],
+    "departure_dates": [],
+    "popular": false,
+    "destination": "Dooars",
+    "short_description": "Comprehensive Dooars wildlife, tea estates and riverside camping.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c6507",
+    "created_date": "2026-10-09T13:55:41",
+    "updated_date": "2026-10-09T13:55:41",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "5N / 6D",
+    "price": 18999,
+    "description": "Combine the best of Dooars wildlife with the tranquil forests of Lava and Loleygaon — safaris, canopy walks, Neora Valley and sunrise views over Kanchenjunga.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/56dc553fd_generated_5a7e2b29.jpg",
+    "category": "dooars",
+    "highlights": [
+      "Jaldapara wildlife safari",
+      "Loleygaon canopy walk",
+      "Neora Valley National Park",
+      "Gorumara jeep safari"
+    ],
+    "name": "Dooars with Lava",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/56dc553fd_generated_5a7e2b29.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/a31448355_generated_e90bb133.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/4b003b861_generated_45cfa83c.jpg"
+    ],
+    "departure_dates": [],
+    "popular": true,
+    "destination": "Dooars & Lava",
+    "short_description": "Wildlife safaris combined with Lava-Loleygaon forest escape.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c6508",
+    "created_date": "2026-10-09T13:55:41",
+    "updated_date": "2026-10-09T13:55:41",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "5N / 6D",
+    "price": 19999,
+    "description": "Experience the adventure capital of Himachal — paragliding and skiing in Solang Valley, Rohtang Pass excursion, Hadimba Temple, and the vibrant cafe culture of Old Manali.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/574d8ce32_generated_3a1c917c.jpg",
+    "category": "himachal",
+    "highlights": [
+      "Solang Valley adventure sports",
+      "Rohtang Pass excursion",
+      "Hadimba Temple visit",
+      "Old Manali cafe hopping"
+    ],
+    "name": "Manali",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/574d8ce32_generated_3a1c917c.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/2446906a6_generated_7b13215b.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/d23ec8656_generated_3f7fc3a1.jpg"
+    ],
+    "departure_dates": [],
+    "popular": true,
+    "destination": "Manali, Himachal",
+    "short_description": "Snow peaks, Solang Valley adventure and Old Manali cafe culture.",
+    "featured": true,
+    "id": "6ac8f25d3abe4ca9d35c6509",
+    "created_date": "2026-10-09T13:55:41",
+    "updated_date": "2026-10-09T13:55:41",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  },
+  {
+    "duration": "6N / 7D",
+    "price": 24999,
+    "description": "A comprehensive Himachal tour — from Shimla's colonial Mall Road to Kullu's valley and Manali's adventure sports, covering the best of Himachal Pradesh.",
+    "image": "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/574d8ce32_generated_3a1c917c.jpg",
+    "category": "himachal",
+    "highlights": [
+      "Shimla Mall Road & Ridge",
+      "Kufri snow activities",
+      "Kullu valley & river rafting",
+      "Manali Solang Valley"
+    ],
+    "name": "Shimla, Kullu & Manali",
+    "type": "regular",
+    "gallery": [
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/574d8ce32_generated_3a1c917c.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/2446906a6_generated_7b13215b.jpg",
+      "https://media.base44.com/images/public/6ac65e66d161befc853e1afc/d23ec8656_generated_3f7fc3a1.jpg"
+    ],
+    "departure_dates": [],
+    "popular": true,
+    "destination": "Shimla & Manali, Himachal",
+    "short_description": "The classic Himachal circuit covering Shimla, Kullu and Manali.",
+    "featured": false,
+    "id": "6ac8f25d3abe4ca9d35c650a",
+    "created_date": "2026-10-09T13:55:41",
+    "updated_date": "2026-10-09T13:55:41",
+    "created_by_id": "6ac65e6ad161befc853e1b00",
+    "is_sample": false
+  }
+]
